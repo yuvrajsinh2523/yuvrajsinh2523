@@ -1,3 +1,5 @@
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Backend+Engineer;DSA+Problem+Solver;Future+Software+Engineer)
 # 🚀 Hey, I'm Yuvrajsinh Jadeja
 
 💻 Full Stack Developer | Backend Focus | DSA Enthusiast
