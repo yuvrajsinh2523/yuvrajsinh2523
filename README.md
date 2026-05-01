@@ -72,8 +72,8 @@
 
 ## 📬 Connect With Me
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
+* LinkedIn:(https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/)
+* Email: (yuvrajsinhjadeja25023@gmail.com)
 
 ---
 
