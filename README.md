@@ -1,7 +1,7 @@
 # 🚀 Hey, I'm Yuvrajsinh Jadeja
 
 💻 Full Stack Developer | Backend Focus | DSA Enthusiast
-🎯 Goal: Crack Top Product-Based Company
+
 
 ---
 
