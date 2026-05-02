@@ -67,9 +67,9 @@ Git | GitHub | Postman
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinh2523\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinh2523&theme=tokyonight)
 
 ---
 
