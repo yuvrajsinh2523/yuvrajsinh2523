@@ -67,15 +67,9 @@ Git | GitHub | Postman
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinh2523&layout=compact&theme=tokyonight)
-
-## 🧩 What Makes Me Different
-
-✔ Strong in backend logic & database design
-✔ Build real-world projects (not just tutorials)
-✔ Consistent DSA practice
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinh2523&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
