@@ -1,84 +1,93 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Backend+Developer;Node.js+%7C+Express+%7C+EJS;MERN+Stack+Learner;DSA+Problem+Solver)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Backend+Engineer;DSA+Problem+Solver;Future+Software+Engineer)
 # 🚀 Hey, I'm Yuvrajsinh Jadeja
 
-💻 Full Stack Developer | Backend Focus | DSA Enthusiast
-
+💻 **Backend Developer | MERN Stack | DSA Enthusiast**
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 MCA Student @ LDRP Institute
-* 🔥 Currently mastering: MERN Stack + Java + DSA
-* 🧩 Love solving real-world problems using code
-* 🚀 Building projects that actually solve problems (not just tutorials)
+* 🎓 MCA Student @ LDRP Institute, Gandhinagar
+* 🔥 Focused on **Backend Development + DSA**
+* ⚙️ Skilled in building **REST APIs & dynamic server-side apps**
+* 🌱 Currently learning: **React Native & Advanced Backend Systems**
+* 🎯 Goal: Crack top product-based company
 
 ---
 
-## ⚡ My Tech Stack
+## ⚡ Tech Stack
 
-💻 Languages
+### 💻 Languages
 
-* Java | JavaScript | SQL
+Java | JavaScript | SQL
 
-🌐 Web
+### 🌐 Backend & Web
 
-* HTML | CSS | Bootstrap | React | Node.js | Express
+Node.js | Express.js | **EJS (Server-Side Rendering)**
+React.js | HTML | CSS | Bootstrap
 
-🛢️ Database
+### 🛢️ Databases
 
-* MySQL | MongoDB
+MySQL | MongoDB
 
-🛠️ Tools
+### 🛠️ Tools
 
-* Git | GitHub | Postman
+Git | GitHub | Postman
 
 ---
 
 ## 🔥 Featured Projects
 
-🚀 **Project 1: REST API System**
+### 📝 Quora Clone (EJS + Express + MySQL)
 
-* Built using Node.js + Express
-* Includes CRUD operations
-* Clean backend architecture
+* Full CRUD operations
+* Server-side rendering using EJS
+* REST API structure
+* Database integration
 
-🚀 **Project 2: Full Stack Web App**
+### 🔗 REST API System (Node.js + Express)
 
-* React + Node + MongoDB
-* Authentication + Database integration
+* Scalable backend architecture
+* CRUD operations
+* Clean routing & middleware usage
 
-🚀 **Project 3: DSA Practice Repo**
+### 💻 MERN Full Stack App
 
-* Daily problem solving
-* Clean optimized solutions
+* React + Node.js + MongoDB
+* Authentication system
+* Full-stack integration
+
+### 📘 DSA Practice Repository
+
+* Daily problem-solving
+* Optimized Java solutions
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinh2523\&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinh2523\&theme=tokyonight)
 
 ---
 
 ## 🧩 What Makes Me Different
 
-🔥 I don’t just learn — I BUILD
-🔥 I focus on backend logic (real skill)
-🔥 Consistent DSA practice
+✔ Strong in backend logic & database design
+✔ Build real-world projects (not just tutorials)
+✔ Consistent DSA practice
 
 ---
 
 ## 📬 Connect With Me
 
-* LinkedIn:(https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/)
-* Email: (yuvrajsinhjadeja25023@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/
+* 📧 Email: [yuvrajsinhjadeja25023@gmail.com](mailto:yuvrajsinhjadeja25023@gmail.com)
 
 ---
 
 ## ⚡ Motto
 
-> “Code. Improve. Repeat. Become Unstoppable.” 🚀
+> “Build. Break. Fix. Repeat. 🚀”
