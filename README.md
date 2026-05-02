@@ -69,9 +69,7 @@ Git | GitHub | Postman
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinh2523&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinh2523&layout=compact&theme=tokyonight)
 
 ## 🧩 What Makes Me Different
 
