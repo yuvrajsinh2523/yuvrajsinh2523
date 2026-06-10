@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student+%40+KSV+Gandhinagar;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;MERN+%7C+Java+%7C+Spring+Boot+%7C+DSA;Building+Real-World+Projects+Daily)](https://github.com/yuvrajsinh2523)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student+%40+LDRP+Gandhinagar;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;MERN+%7C+Java+%7C+Spring+Boot+%7C+DSA;Building+Real-World+Projects+Daily)](https://github.com/yuvrajsinh2523)
 
 # Hi, I'm Yuvrajsinh Jadeja 👋
 
