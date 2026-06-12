@@ -41,7 +41,7 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -100,7 +100,6 @@
 ```
 ✅ React.js          → Components, Hooks, State Management
 ✅ DSA with Java     → Arrays, Strings, Recursion (Apna College)
-🔄 Spring Boot       → REST APIs, JPA, Security
 🔄 MERN Stack        → Full integration (React + Node + MongoDB)
 📌 MySQL             → Advanced queries, joins, indexing
 ```
