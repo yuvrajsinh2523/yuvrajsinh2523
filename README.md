@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **MCA Student** at **Kadi Sarva Vishwavidyalaya (KSV), Gandhinagar**
+🎓 **MCA Student** at **LDRP-ITR, Gandhinagar**
 💻 Building projects using the **MERN Stack**
 ☕ Practicing **DSA with Java**
 🏆 Participated in **Odoo Hackathon (Virtual Round)** — Built **VendorBridge**
