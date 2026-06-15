@@ -1,83 +1,133 @@
+````md
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student+%40+LDRP+Gandhinagar;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;MERN+%7C+Java+%7C+DSA;Building+Real-World+Projects+Daily)](https://github.com/yuvrajsinh2523)
+# Hi 👋, I'm Yuvrajsinh Jadeja
 
-# Hi, I'm Yuvrajsinh Jadeja 👋
+### 🚀 MCA Student | Aspiring Full Stack Developer | MERN Stack & Java Enthusiast
 
-**Full Stack Developer (MERN) · Java Backend · DSA Enthusiast**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KSV+Gandhinagar;Aspiring+Full+Stack+Developer+🚀;Learning+MERN+Stack+%7C+Java+%7C+DSA;Building+Real-World+Projects+Daily)](https://github.com/yuvrajsinh2523)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvrajsinh2523)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsinhjadeja25023@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/yuvrajsinh2523">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:yuvrajsinhjadeja25023@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 **MCA Student** at Kadi Sarva Vishwavidyalaya (KSV), Gandhinagar
-- 💻 Building full-stack projects with **MERN Stack + Java + Spring Boot**
-- 🏆 Participated in **Odoo Hackathon** (Virtual Round) — built **VendorBridge**
-- 🔥 Currently mastering **DSA in Java** (Apna College) + **React.js**
-- 🎯 Goal: Land a high-impact role at a top product-based company
-- 📍 Gujarat, India
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+🎓 MCA Student at **Kadi Sarva Vishwavidyalaya (KSV), Gandhinagar**  
+💻 Learning and building projects using the **MERN Stack**  
+☕ Practicing **Data Structures & Algorithms (DSA) with Java**  
+🏆 Participated in **Odoo Hackathon (Virtual Round)** and built **VendorBridge**  
+🚀 Passionate about building real-world backend and full-stack projects  
+🎯 Goal: Become a highly skilled software developer and work at a top tech company  
+📍 Gujarat, India  
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,mysql" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🖼️ Image Compressor Web App
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Multer, Sharp  
+
+✅ Upload and compress images  
+✅ Download compressed images  
+✅ Compression quality control  
+✅ Compression history page  
+✅ Error handling using Express middleware  
+
+---
 
 ### 🤝 VendorBridge — Odoo Hackathon Project
-> A vendor management platform built for the Odoo Virtual Hackathon
-- Built under hackathon pressure — real deadline, real problem
-- Vendor listing, management, and bridge functionality
-- **[View Repo →](https://github.com/yuvrajsinh2523)**
+A vendor management platform developed during the **Odoo Hackathon**.
+
+✅ Vendor listing and management  
+✅ Built under real hackathon deadlines  
+✅ Team collaboration experience  
+
+---
 
 ### 📝 Mini Post Management System
-> Full-stack CRUD app — Node.js + Express + MySQL + EJS
-- Create, edit, view, delete posts with clean UI
-- Server-side rendering, REST API structure, MySQL integration
-- **[View Repo →](https://github.com/yuvrajsinh2523/mini-post-management-system)**
+**Tech Stack:** Node.js, Express.js, MySQL, EJS  
+
+✅ Full CRUD functionality  
+✅ RESTful architecture  
+✅ Database integration using MySQL  
+
+---
 
 ### 👤 User Management System
-> Node.js + Express + MySQL backend system
-- Database connection, CRUD operations, clean Express routing
-- **[View Repo →](https://github.com/yuvrajsinh2523/user-management-system-nodejs)**
+**Tech Stack:** Node.js, Express.js, MySQL  
 
-### 🔗 Backend Learning — Mongoose / MongoDB
-> Hands-on backend practice with Mongoose ODM
-- Schema design, model creation, query practice
-- **[View Repo →](https://github.com/yuvrajsinh2523/backend-learning-mongoose)**
+✅ User CRUD operations  
+✅ Database connectivity  
+✅ Backend routing practice  
+
+---
+
+## 📚 Currently Learning
+
+```txt
+✅ React.js          → Components, Hooks, State Management
+✅ DSA with Java     → Arrays, Strings, Recursion
+🔄 MERN Stack        → Full Integration
+📌 MongoDB & MySQL   → Advanced Database Practice
+````
+
+## 🎯 2026 Goals
+
+* [x] Learn HTML, CSS, Bootstrap & JavaScript
+* [x] Learn Git & GitHub
+* [x] Learn Node.js + Express.js
+* [x] Learn MongoDB & MySQL Basics
+* [x] Participate in Hackathons
+* [x] Build Backend Projects
+* [ ] Complete React.js
+* [ ] Build Strong MERN Stack Projects
+* [ ] Solve 150+ DSA Problems
+* [ ] Open Source Contribution
+* [ ] Land a Great Internship Opportunity
 
 ---
 
@@ -85,46 +135,19 @@
 
 <div align="center">
 
-![Yuvrajsinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh2523&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinh2523&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsinh2523&theme=tokyo-night&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsinh2523&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-```
-✅ React.js          → Components, Hooks, State Management
-✅ DSA with Java     → Arrays, Strings, Recursion (Apna College)
-🔄 MERN Stack        → Full integration (React + Node + MongoDB)
-📌 MySQL             → Advanced queries, joins, indexing
-```
-
----
-
-## 🎯 2025–26 Roadmap
-
-- [x] HTML, CSS, Bootstrap, JavaScript
-- [x] Git & GitHub
-- [x] Node.js + Express.js + REST APIs
-- [x] MySQL + MongoDB basics
-- [x] Hackathon participation (Odoo)
-- [ ] Complete React.js + build MERN project
-- [ ] DSA — 150+ LeetCode problems
-- [ ] Spring Boot — production-grade API
-- [ ] Portfolio website (deployed)
-- [ ] Internship / open source contribution
 
 ---
 
 <div align="center">
 
-> *"Build. Break. Fix. Repeat. 🚀"*
+### ✨ *"Build. Learn. Improve. Repeat."* 🚀
 
-**If you're building something interesting, let's connect.**
+**Open to learning, collaboration, and exciting opportunities in tech.**
 
 </div>
+```
