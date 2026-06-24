@@ -2,144 +2,205 @@
 
 <div align="center">
 
-### 🚀 MCA Student | Aspiring Full Stack Developer | MERN Stack & Java Enthusiast
+### 🚀 MCA Student | Full Stack Developer | MERN • Java • GenAI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KSV+Gandhinagar;Aspiring+Full+Stack+Developer+🚀;Learning+MERN+Stack+%7C+Java+%7C+DSA;Building+Real-World+Projects+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MCA+Student+%40+LDRP-ITR+Gandhinagar;Aspiring+Full+Stack+Developer+🚀;Learning+MERN+Stack+%7C+Java+%7C+PostgreSQL+%7C+GenAI;Building+Real-World+Projects+Every+Day;Passionate+About+Backend+Development+%26+AI" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/yuvrajsinh-jadeja-19341b337/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yuvrajsinh2523">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:yuvrajsinhjadeja25023@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **MCA Student** at **LDRP-ITR, Gandhinagar**
-💻 Building projects using the **MERN Stack**
-☕ Practicing **DSA with Java**
+🎓 MCA Student at **LDRP-ITR, Gandhinagar**
+
+💻 Building scalable **Full Stack Web Applications**
+
+🤖 Exploring **Generative AI** using **Google Gemini API**
+
+☕ Practicing **Data Structures & Algorithms with Java**
+
 🏆 Participated in **Odoo Hackathon (Virtual Round)** — Built **VendorBridge**
-🚀 Passionate about building **real-world backend & full-stack applications**
-🎯 Goal: Become a strong software developer and crack a top tech role
-📍 **Gujarat, India**
+
+🚀 Passionate about Backend Development, Databases, REST APIs & AI Integration
+
+🎯 Goal: Become a Software Engineer at a top product-based company
+
+📍 Gujarat, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,mysql,postgresql"/>
 </p>
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄️ Databases
+## 🤖 AI & GenAI
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
-### 🧰 Tools & Platforms
+- Google Gemini API
+- Prompt Engineering
+- AI Chatbot Development
+- Streaming Responses
+- Conversation History
+- REST API Integration
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+</p>
+
+## 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🖼️ Image Compressor Web App
+## 🤖 AI Chatbot (Gemini API)
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Multer, Sharp
+**Tech Stack:** Node.js • Express.js • Google Gemini API • MongoDB • EJS
 
-✅ Upload & compress images
-✅ Compression quality control
-✅ Download compressed images
-✅ Compression history feature
-✅ Error handling with Express middleware
+✅ AI-powered chatbot
 
----
+✅ Persistent conversation history
 
-### 🤝 VendorBridge — Odoo Hackathon Project
+✅ Google Gemini API Integration
 
-**Vendor management platform built during Odoo Hackathon**
+✅ Real-time AI responses
 
-✅ Vendor listing & management
-✅ Real hackathon experience
-✅ Team collaboration under deadlines
+✅ Clean MVC architecture
 
 ---
 
-### 📝 Mini Post Management System
+## 🖼️ Image Compressor Web App
 
-**Tech Stack:** Node.js, Express.js, MySQL, EJS
+**Tech Stack:** Node.js • Express.js • MongoDB • EJS • Bootstrap • Multer • Sharp
 
-✅ Full CRUD operations
-✅ RESTful architecture
-✅ Database integration using MySQL
+✅ Upload & Compress Images
 
----
+✅ Compression Quality Control
 
-### 👤 User Management System
+✅ Download Compressed Images
 
-**Tech Stack:** Node.js, Express.js, MySQL
+✅ Compression History
 
-✅ CRUD operations
-✅ Database connectivity
-✅ Backend routing practice
+✅ Express Error Handling
 
 ---
 
-## 📚 Currently Learning
+## 🤝 VendorBridge (Odoo Hackathon)
+
+**Vendor Management Platform**
+
+✅ Vendor Management
+
+✅ Authentication
+
+✅ Team Collaboration
+
+✅ Real Hackathon Experience
+
+---
+
+## 📝 Mini Post Management System
+
+**Tech Stack:** Node.js • Express.js • MySQL • EJS
+
+✅ CRUD Operations
+
+✅ REST API
+
+✅ MySQL Integration
+
+---
+
+## 👤 User Management System
+
+**Tech Stack:** Node.js • Express.js • MySQL
+
+✅ CRUD Operations
+
+✅ Database Connectivity
+
+✅ Backend Routing
+
+---
+
+# 📚 Currently Learning
 
 ```txt
-✅ React.js          → Components, Hooks, State Management
-✅ DSA with Java     → Arrays, Strings, Recursion
-🔄 MERN Stack        → Full Integration
-📌 MongoDB & MySQL   → Advanced Database Practice
+✅ React.js
+✅ Advanced JavaScript
+✅ PostgreSQL
+✅ MongoDB
+✅ REST APIs
+✅ Express.js
+✅ Node.js
+✅ Google Gemini API
+✅ AI Chatbot Development
+🔄 MERN Stack
+🔄 Java + DSA
 ```
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-* [x] HTML, CSS, Bootstrap & JavaScript
-* [x] Git & GitHub
-* [x] Node.js + Express.js
-* [x] MongoDB & MySQL Basics
-* [x] Participate in Hackathons
-* [x] Build Backend Projects
-* [ ] Complete React.js
-* [ ] Build Strong MERN Projects
-* [ ] Solve 150+ DSA Problems
-* [ ] Open Source Contribution
-* [ ] Land a Great Internship Opportunity
+- [x] HTML, CSS & Bootstrap
+- [x] JavaScript
+- [x] Git & GitHub
+- [x] Node.js & Express.js
+- [x] MongoDB
+- [x] MySQL
+- [x] PostgreSQL
+- [x] Google Gemini API Integration
+- [x] Build AI Chatbot
+- [x] Participate in Hackathons
+- [ ] Complete React.js
+- [ ] Master MERN Stack
+- [ ] Learn Spring Boot
+- [ ] Solve 200+ DSA Problems
+- [ ] Open Source Contribution
+- [ ] Land a Software Development Internship
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -153,8 +214,10 @@
 
 <div align="center">
 
-### ✨ *Build. Learn. Improve. Repeat.* 🚀
+## ✨ Build • Learn • Create • Repeat 🚀
 
-**Open to learning, collaboration, and exciting opportunities in tech.**
+*"Code is not just about solving problems; it's about creating solutions that make a difference."*
+
+**Open to Software Development Internships, Full Stack Projects, AI Collaboration, and Open Source Contributions.**
 
 </div>
